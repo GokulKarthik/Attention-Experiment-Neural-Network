@@ -1,1 +1,2 @@
-# attention-experiments-dl
+# Experimental understanding of attetion models in deep learning
+#### (Doing this project under the guidance of Prof. Harish, IIT Madras during the Summer Research Fellowship program)
